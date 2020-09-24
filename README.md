@@ -5,4 +5,4 @@ This program was made as a solution to a problem that my CFO had involving const
 
 
 # Limitations
-Although its purpose is to scrape and tabularize property info of all files and folders within a targeted path, it will not be able to scrape files or folders that the program executor has access to. In this case, I was limited by my level of access that the company grants me within the network. But my CFO has over arching access within the network, the spread of the program in her hands was far wider. 
+Although its purpose is to scrape and tabularize property info of all files and folders within a targeted path, it will not be able to scrape files or folders that the program-executor does not have access to. In this case, I was limited by my level of access that the company grants me within the network. But my CFO has over arching access within the network, the spread of the program in her hands was far wider. 
